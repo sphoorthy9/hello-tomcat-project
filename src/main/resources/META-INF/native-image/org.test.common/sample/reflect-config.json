@@ -1,0 +1,7 @@
+[
+  {
+    "name": "org.test.common.Greeting",
+    "allDeclaredConstructors": true,
+    "allDeclaredMethods": true
+  }
+]
